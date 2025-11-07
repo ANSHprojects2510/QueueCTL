@@ -1,0 +1,9 @@
+--- Log for Job 5a5f3654-eabc-418d-a053-f3738fe905bb ---
+Command: echo Hello QueueCTL
+
+Hello QueueCTL
+STDOUT:
+Hello QueueCTL
+
+
+Final state: completed
